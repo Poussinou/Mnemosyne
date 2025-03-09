@@ -1,5 +1,3 @@
-# README.md
-
 # Mnemosyne
 
 A memorization app designed for lists as opposed to traditional flashcards
@@ -10,6 +8,11 @@ For convenience one can import a csv file into the app to create lists, or just 
 
 There is a feature that allows for placing related lists together in a collapsible group. One can nest these groups to near arbitrary depth. One creates a group by prefixing the group title to the list title, followed by "::". For example, to create a grouping of German lists, where one wants a list of nouns and a list of verbs, one would name the two lists German::Nouns and German::Verbs.
 
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/com.zarathustra.mnemosyne/)
+
+Or download the latest APK from the [Releases Section](https://github.com/aporeticgadfly/Mnemosyne/releases/latest).
 
 ## Features
 - Open Source
